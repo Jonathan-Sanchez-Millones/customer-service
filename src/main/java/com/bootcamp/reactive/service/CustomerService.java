@@ -3,7 +3,6 @@ package com.bootcamp.reactive.service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.bootcamp.reactive.dto.CustomerDto;
 import com.bootcamp.reactive.entity.CustomerBusiness;
 import com.bootcamp.reactive.entity.CustomerPersonal;
 import com.bootcamp.reactive.repository.CustomerBusinessRepository;

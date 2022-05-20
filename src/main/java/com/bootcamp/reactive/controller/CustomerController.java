@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.bootcamp.reactive.dto.CustomerDto;
 import com.bootcamp.reactive.entity.CustomerBusiness;
 import com.bootcamp.reactive.entity.CustomerPersonal;
 import com.bootcamp.reactive.service.CustomerService;
